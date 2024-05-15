@@ -3,6 +3,9 @@
 
 BUNEWS, haberleri takip etmek için kullanıcı dostu bir mobil uygulamadır. Güncel haberlere erişmek, favori haberleri saklamak ve düşüncelerinizi paylaşmak için mükemmel bir platformdur. Ayrıca dil seçenekleri ve tema modları ile uygulamayı kişiselleştirebilirsiniz.
 
+![Resim1](pp1.png)
+
+
 ## 🚀 Özellikler
 
 - **Güncel Haberler:** NEWS API entegrasyonu sayesinde sürekli güncel haberlere erişim sağlanmaktadır.
