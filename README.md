@@ -23,3 +23,4 @@ BUNEWS, haberleri takip etmek için kullanıcı dostu bir mobil uygulamadır. G�
 - **Animasyonlar:** Animasyonlar kullanılarak kullanıcı deneyimi artırılmıştır.
 - **Ekran Tasarımları:** Giriş, kayıt ve diğer ekranlar tasarlanmış ve Firebase ile entegre edilmiştir.
 
+![Resim1](pp.png)
