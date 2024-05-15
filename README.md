@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://link.to.your/logo.png" alt="BUNEWS Logo" width="200"/>
-</div>
 
 # BUNEWS - Haber Uygulaması
 
@@ -23,9 +20,3 @@ BUNEWS, haberleri takip etmek için kullanıcı dostu bir mobil uygulamadır. G�
 - **Animasyonlar:** Animasyonlar kullanılarak kullanıcı deneyimi artırılmıştır.
 - **Ekran Tasarımları:** Giriş, kayıt ve diğer ekranlar tasarlanmış ve Firebase ile entegre edilmiştir.
 
-## 🛠️ Kurulum
-
-1. Bu projeyi klonlayın:
-
-```bash
-git clone https://github.com/username/BUNEWS.git
