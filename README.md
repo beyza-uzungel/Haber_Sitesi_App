@@ -1,16 +1,31 @@
-# my_news_app_
+<div align="center">
+  <img src="https://link.to.your/logo.png" alt="BUNEWS Logo" width="200"/>
+</div>
 
-A new Flutter project.
+# BUNEWS - Haber Uygulaması
 
-## Getting Started
+BUNEWS, haberleri takip etmek için kullanıcı dostu bir mobil uygulamadır. Güncel haberlere erişmek, favori haberleri saklamak ve düşüncelerinizi paylaşmak için mükemmel bir platformdur. Ayrıca dil seçenekleri ve tema modları ile uygulamayı kişiselleştirebilirsiniz.
 
-This project is a starting point for a Flutter application.
+## 🚀 Özellikler
 
-A few resources to get you started if this is your first Flutter project:
+- **Güncel Haberler:** NEWS API entegrasyonu sayesinde sürekli güncel haberlere erişim sağlanmaktadır.
+- **Favoriler:** Beğendiğiniz haberleri favorilere ekleyebilir ve daha sonra kolayca erişebilirsiniz.
+- **Yorum Yapma:** Haberler hakkında düşüncelerinizi paylaşabilirsiniz.
+- **Dil ve Tema Seçenekleri:** İngilizce veya Türkçe dil seçeneği ve light/dark tema modu bulunmaktadır.
+- **Gestures Desteği:** Uygulama içinde çeşitli gestures kullanılmıştır.
+- **Dosya İşlemleri:** Klasör ve dosya yapıları düzenli bir şekilde oluşturulmuştur.
+- **Varlıklar ve Resimler:** Uygulamada kullanılan fotoğraflar ve dil seçenekleri için json dosyaları mevcuttur.
+- **Grafik Kullanımı:** Grafikler kullanılarak veriler görselleştirilmiştir.
+- **API Entegrasyonu:** NEWS API üzerinden veri okuma ve yazma işlemleri yapılmıştır.
+- **Yerel Veritabanı:** SharedPreferences kullanılarak yerel veritabanı işlemleri gerçekleştirilmiştir.
+- **Firebase Entegrasyonu:** Firebase ve Firestore kullanılarak kullanıcı oturumu durumu, kullanıcı adı ve kullanıcı e-posta adresi gibi bilgilerin saklanması ve erişilmesi sağlanmıştır. Ayrıca favorilerin veritabanına eklenmesi, belirli bir e-postaya sahip favori öğelerinin getirilmesi, bir yorumun veritabanına eklenmesi ve belirli bir e-postaya sahip yorumların getirilmesi gibi işlemler yapılmıştır.
+- **Widgetlar:** Uygulamada birçok farklı widget kullanılmıştır, hatta özel widgetlar oluşturulmuştur.
+- **Animasyonlar:** Animasyonlar kullanılarak kullanıcı deneyimi artırılmıştır.
+- **Ekran Tasarımları:** Giriş, kayıt ve diğer ekranlar tasarlanmış ve Firebase ile entegre edilmiştir.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Kurulum
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Bu projeyi klonlayın:
+
+```bash
+git clone https://github.com/username/BUNEWS.git
